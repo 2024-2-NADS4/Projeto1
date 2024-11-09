@@ -1,0 +1,11 @@
+Backend
+O projeto foi desenvolvido utilizando Node JS que permite a utilização da linguagem de programação orientada a eventos Java Script para o desenvolvimento de aplicações Web. Adicionalmente, foi desenvolvida uma API (Application Programming Interface) com a função de criar e conectar usuários da aplicação por meio do potocolo HTTP.
+
+Ferramentas:
+Para o desenvolvimento da aplicação, foram utilizados containers criados na ferramenta Docker, responsável pelo empacotamento e gerenciamento das imagens dos ambientes de desenvolvimento e produção do banco de dados. Adicionalmente, foi utilizado o banco de dados relacional Mysql para o armazenamento e manipulação de dados dos usuários utilizando a linguagem de comando estruturada SQL.
+
+Arquiterura
+Utilizamos o padrão MVC (Model-View-Controller) para a organização e padronização do projeto. Desta forma, considerando a linguagem de programação orientada a funções (Java script) dividimos o projeto em duas partes:
+	- Backend: Model e Controller para a manimpulação de dados e operação de comandos via requisições JSON utilizando metodos CRUD (Create, Read, Update, Delete) para intermediar a comunicação entre cliente e servidor.
+	- Fontend: View para desenvolver e criar toda a parte visual do site.
+

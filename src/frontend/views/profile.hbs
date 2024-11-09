@@ -1,0 +1,219 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <!-- CSS Public -->
+  <link rel="stylesheet" href="/style.css">
+  <link rel="stylesheet" href="/public.css">
+  <!-- CSS Bootstrap -->
+	<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.2/css/all.min.css">
+  <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.2/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-T3c6CoIi6uLrA9TneNEoa7RxnatzjcDSCmG1MXxSR1GAsXEV/Dwwykc2MPK8M2HN" crossorigin="anonymous">
+	<!-- CSS Icons -->
+	<link rel="icon" type="image/x-icon" href="https://i.ibb.co/T0r5M2H/logo-ong.png">
+  
+  <title>Profile</title>
+</head>
+<body>
+
+  <!-- Menú -->
+  <nav class="navbar navbar-expand-lg navbar-light bg-warning ">
+				<div class="container">
+					<a class="navbar-brand" href="/">
+						<img src="https://i.ibb.co/1rpvTSD/logo-ads4.png" alt="" style="max-width: 100px; max-height: 50px;">
+					</a> 
+          <button aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation" class="navbar-toggler" data-bs-target="#navbarSupportedContent" data-bs-toggle="collapse" type="button"><span class="navbar-toggler-icon"></span></button>
+					<div class="collapse navbar-collapse" id="navbarSupportedContent">
+						<ul class="navbar-nav ms-auto mb-2 mb-lg-0">
+							<li class="nav-item">
+								<a class="nav-link" href="/">Início</a>
+							</li>
+              <!--<li class="nav-item">
+                <a class="nav-link" href="/gallery">Galeria</a>
+              </li>-->
+              <li class="nav-item">
+                <a class="nav-link" href="/contato">Contato</a>
+              </li>
+
+              <!--<li class="nav-item">
+                <button class="btn-donate"><a class="nav-link" href="/donation">Doar</a></button>
+              </li>-->
+							{{#if user}}
+							<li class="nav-item">
+								<a class="nav-link" href="/profile">Minha Conta</a>
+							</li >
+							<li class="nav-item">
+								<a class="nav-link" href="/auth/logout">Sair</a>
+							</li>
+							{{else}}
+							<li class="nav-item">
+								<a class="nav-link" href="login">Login</a>
+							</li>
+							<li class="nav-item">
+								<a class="nav-link" href="register">Register</a>
+							</li>
+							{{/if}}
+						</ul>
+					</div>
+				</div>
+	</nav>
+  <!-- /Menú -->
+
+  <!-- Info Profile -->
+  <div class="container">
+
+    <div class=" flex-wrap mt-4">
+      <div class="row mb-3 ">
+        <!-- Info Profile Left -->
+        <div class="col-5">
+          <div class="card " >
+            <div class="card">
+              <div class="avatar-ctn">
+                <img class="avatar" src="https://i.ibb.co/1rpvTSD/logo-ads4.png" alt="profile picture">
+              </div>
+              <div class="card-body ">
+                <div class="align-items-center text-center">
+                  <h5 class="card-title text-info-emphasis"> {{user.name}} </h5>
+                  <p class="card-text text-success fw-light"> Fazendo a diferença na vida de dezenas de criaças </p>  
+
+                  <a href="https://gmail.com" target="_blank" class="btn bg-warning text-break">{{user.email}} </a>
+                </div>
+              </div>
+            </div>
+          </div>
+
+        </div>
+        <!-- /Info Profile Left -->
+
+        <!-- Info Profile Right -->
+        <div class="col-7 bg-warning-subtle">
+          <div class="card text-center mt-3 mb-3">
+            <div class="card-header">
+              Meus Cursos
+            </div>
+            <div class="card-body">
+
+              <h5 class="card-title mb-2">Seja bem vindo {{user.name}}!</h5>
+              <p class="card-text mt-2">Mudar a casa, a vila, o bairro, a cidade, o estado, o país, o mundo... resgatar sonhos e restabelecer a esperança de crianças, adolescentes e jovens em situação de vulnerabilidade, afim de oferecer-lhes um presente mais digno e um futuro mais promissor.</p>
+
+              <!-- Button PDF -->
+              <p class="d-inline-flex gap-1"> 
+                <button class=" btn bg-warning" type="button" data-bs-toggle="collapse" data-bs-target="#collapseExample" aria-expanded="false" aria-controls="collapseExample">
+                  Saiba mais sobre o projeto
+                </button>
+              </p>
+              <div class="collapse" id="collapseExample">
+                <div class="card card-body">
+                  <embed src="assets/projetosonhos.pdf" type="application/pdf" width="100%" height="700px">
+                </div>
+              </div>
+              <hr>
+              <div class="card-body">
+
+              <h5 class="card-title mb-2">Seja bem vindo {{user.name}}!</h5>
+              <p class="card-text mt-2">Mudar a casa, a vila, o bairro, a cidade, o estado, o país, o mundo... resgatar sonhos e restabelecer a esperança de crianças, adolescentes e jovens em situação de vulnerabilidade, afim de oferecer-lhes um presente mais digno e um futuro mais promissor.</p>
+
+              <!-- Button PDF -->
+
+              <p class="d-inline-flex gap-1"> 
+                <button class=" btn bg-warning" type="button" data-bs-toggle="collapse" data-bs-target="#collapseExample" aria-expanded="false" aria-controls="collapseExample">
+                  Saiba mais sobre o projeto
+                </button>
+              </p>
+              <div class="collapse" id="collapseExample">
+                <div class="card card-body">
+                  <embed src="assets/projetosonhos.pdf" type="application/pdf" width="100%" height="700px">
+                </div>
+              </div>
+              <!-- /Button PDF -->
+              
+            </div>
+          </div>
+        </div>
+        <!-- /Info Profile Right -->
+      </div>   
+    </div>
+  
+    <!-- /Info Profile -->
+      {{#if message}}
+
+      <h4 class="alert alert-danger mt-4">{{message}}</h4>
+
+      {{/if}}'
+    </div>
+
+
+  <!-- Footer -->
+   <footer>
+      <div class="footer-content">
+        <div id="contacts">
+          <!-- Texto do rodapé -->
+          <img class="logo-footer" src="https://i.ibb.co/1rpvTSD/logo-ads4.png" alt="logo-footer">
+    
+          <!-- social links -->
+          <div id="social_links">
+            <a href="https://instagram.com/projetosocial100vezesmais?igshid=MzMyNGUyNmU2YQ==" class="footer-link" id="instagram">
+              <i class="fa-brands fa-instagram"></i>
+            </a>
+    
+            <a href="#" class= "footer-link" id="facebook">
+              <i class="fa-brands fa-facebook-f"></i>
+            </a>
+    
+            <a href="#" class="footer-link" id="linkedin">
+              <i class="fa-brands fa-linkedin"></i>
+            </a>
+          </div>
+        </div>
+        
+        
+        <!-- Lista de links-->
+        <ul class="footer-list">
+          <li>
+            <h3>Mapa do Site</h3>
+          </li>
+          <li>
+            <a href="/" class="footer-link">Início</a>
+          </li>
+          <!--<li>
+            <a href="/gallery" class="footer-link">Galeria</a>
+          </li>-->
+          <li>
+            <a href="/contato" class="footer-link">Contato</a>
+          </li>
+          <li>
+            <a href="/donation" class="footer-link">Doar</a>
+          </li>
+        </ul>
+    
+        <!-- Lista de links do blog-->
+        <ul class="footer-list">
+          <li>
+            <h3>Informações</h3>
+          </li>
+          <li>
+            <a href="/termosDeUso" class="footer-link">Termos de Uso</a>
+          </li>
+          <li>
+            <a href="/privacidade" class="footer-link">Política de Privacidade</a>
+          </li>
+			  </ul>
+      </div>
+    
+      <!-- Direitos autorais-->
+      <div class="copyright">
+        Cem Vezes Mais © 2023 todos direitos reservados
+      </div>
+   </footer>
+  <!-- /Footer -->
+
+
+<!-- JS Bootstrap 4.6 -->
+  <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.2/dist/js/bootstrap.bundle.min.js" integrity="sha384-C6RzsynM9kWDrMNeT87bh95OGNyZPhcTNXj1NW7RuBCsyN/o0jlpcV8Qyq46cDfL" crossorigin="anonymous"></script>
+
+  <script src="https://cdn.jsdelivr.net/npm/@popperjs/core@2.11.8/dist/umd/popper.min.js" integrity="sha384-I7E8VVD/ismYTF4hNIPjVp/Zjvgyol6VFvRkX/vR+Vc4jQkC+hVqc2pM8ODewa9r" crossorigin="anonymous"></script>
+  <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.2/dist/js/bootstrap.min.js" integrity="sha384-BBtl+eGJRgqQAUMxJ7pMwbEyER4l1g+O15P+16Ep7Q9Q+zqX6gSbd85u4mG4QzX+" crossorigin="anonymous"></script>
+<!-- /JS Bootstrap -->
+
+</body>
+</html>

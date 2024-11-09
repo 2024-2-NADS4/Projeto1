@@ -1,0 +1,21 @@
+-- Active: 1699674031154@@127.0.0.1@5000
+
+CREATE DATABASE IF NOT EXISTS piBackend;
+
+USE piBackend;
+
+CREATE TABLE
+    contatos (
+        id INT PRIMARY KEY AUTO_INCREMENT,
+        email VARCHAR(130) NOT NULL,
+        texto VARCHAR(5000) NOT NULL,
+        created_at VARCHAR(45) NOT NULL
+    );
+
+CREATE TABLE
+    users(
+        id INT PRIMARY KEY AUTO_INCREMENT,
+        name VARCHAR(100) NOT NULL,
+        email VARCHAR(130) NOT NULL,
+        password VARCHAR(45) NOT NULL
+    );

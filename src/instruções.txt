@@ -1,0 +1,22 @@
+Instalações:
+	- Node - v16.13.0
+	- Mysql - 8.0.34
+	- Docker - v24.0.6 *RECOMENDADO*
+
+Dependencias:
+   NODE =>
+	npm i express mysql dotenv hbs
+	npm i --save nodemon
+	npm install mysql2
+	npm i bcryptjs 
+	npm i cookie-parser jsonwebtoken
+	npm i nodemailer
+	npm i path http
+    DOCKER =>
+	docker run --name mysql_container -e MYSQL_ROOT_PASSWORD=root mysql
+	docker run --name mysql_container -e MYSQL_ROOT_PASSWORD=root -p 5000:5000 -d mysql
+
+CONFIGURAÇÕES
+	app.js => Inicializa o servidor
+		=> "express": inicializa o servidor localmente (npm start)
+		=> "mysql": inicializa o servidor localmente (npm start)
