@@ -1,33 +1,4 @@
-nav{
-  background-color: #f8c200;
-  color: #fff;
-  padding: 30px 60px;
-  display: flex;
-  justify-content: space-between;
-}
 
-nav ul{
-  display: flex;
-  justify-content: space-around;
-  align-items: center;
-}
-
-nav li{
-  list-style: none;
-}
-
-nav li a{
-  color: #fff;
-  text-decoration: none;
-  font-weight: bold;
-  padding: 5px 8px;
-}
-
-nav li a:hover{
-  color: yellow;
-  text-decoration: none;
-
-}
 
 .avatar-ctn{
   background-color: orange;
@@ -35,6 +6,7 @@ nav li a:hover{
 }
 
 .avatar{
+  
   width: 65% ;
   border-bottom: 1px solid rgba(0,0,0, 0.125);
 }

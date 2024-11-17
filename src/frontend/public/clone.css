@@ -1,0 +1,107 @@
+/* Estilo da página "index" e "esqueceu-senha" */
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+body {
+    background-image: url('https://i.ibb.co/KLHBVjY/img-fundo.jpg');
+    background-size: cover;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+}
+
+.container {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    text-align: center;
+    padding: 40px;
+    border-radius: 10px;
+    max-width: 400px; 
+    width: 100%;
+}
+
+.contein-logo {margin-bottom: 20px;}
+
+.logo {width: 18rem;}
+
+.contein-um {
+    font-size: 23px;
+    color: #fff;
+    font-weight: lighter;
+    margin-bottom: 20px;
+    letter-spacing: 2px;
+}
+
+.contein-dois {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    width: 100%;
+}
+
+.campo-um, .campo-dois {
+    display: flex;
+    align-items: center;
+    margin-bottom: 10px; 
+    width: 120%;
+}
+
+.campo-um input, .campo-dois input {
+    height: 50px; 
+    border-top-right-radius: 5px;
+    border-bottom-right-radius: 5px;
+    border: none;
+    background-color: #f3f3f3;
+    width: 100%;
+    font-size: 15px;
+    padding-left: 10px;
+    margin-top: 3px;
+    outline: none;
+}
+
+.campo-um img, .campo-dois img {
+    height: 50px;
+    background-color: rgb(79, 191, 70);
+    padding: 10px;
+    border-top-left-radius: 5px;
+    border-bottom-left-radius: 5px;
+    margin-top: 3px;
+}
+
+.bt-acessar {
+    width: 120%;
+    height: 50px;
+    background-color: rgb(79, 191, 70);
+    border: none;
+    border-radius: 5px;
+    color: #fff;
+    font-size: 15px;
+    margin-top: 3px;
+    cursor: pointer;
+}
+
+.bt-acessar:hover{background-color: #06291F;}
+
+#link-esqueceu {
+    color: #fff;
+    font-size: 16px;
+    font-weight: bold;
+    text-decoration: none;
+    text-decoration: underline;
+}
+
+#link-esqueceu:hover{color:#fca519;}
+
+/* Estilo da Página "esqueceu-senha" */
+.text-esqueceu{
+    font-size: 15px;
+    color: #fff;
+    font-weight: lighter;
+    letter-spacing: 2px;
+}
