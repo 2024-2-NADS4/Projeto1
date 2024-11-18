@@ -4,13 +4,28 @@
 <a href= "https://www.fecap.br/"><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRhZPrRa89Kma0ZZogxm0pi-tCn_TLKeHGVxywp-LXAFGR3B1DPouAJYHgKZGV0XTEf4AE&usqp=CAU" alt="FECAP - Fundação de Comércio Álvares Penteado" border="0"  width="275rem" height="255rem"></a>
 </p>
 
-# EcoIA - Games
+# DataSafe AI
 
-## Grupo 12
+## Grupo 01
 
-## Integrantes: <a href="/">Ana Flávia Lorêdo RA: 23025092</a>, <a href="/">Fernanda Mayumi Kuba Kato RA: 23024484</a>, <a href="/">Guilherme de Amorim Medeiros RA: 23024555</a>, <a href="/">Kevin Makoto Shiroma RA: 2002095</a>, <a href="/">Lorena Pereira Bernardo RA: 23025048</a>, <a href="/">Matheus Sampaio Duarte RA: 23024588</a>, <a href="/">Paulo Carvalho S. J. RA: 23024564</a> <a href="/">Renato Riichi Kato RA: 23024516</a>
+## Integrantes: 
+<a href="https://www.linkedin.com/in/ana-flavia-lor%C3%AAdo-9629b5210/"> Ana Flavia Ribeiro Loredo dos Santos </a> <br>
+<a href="https://www.linkedin.com/in/fernanda-mayumi-kuba-kato/"> Fernanda Mayumi Kuba Kato </a> <br>
+<a href="/">Guilherme de Amorim Medeiros RA: 23024555</a><br>
+<a href="https://www.linkedin.com/in/kevinmakotos/"> Kevin Makoto Shiroma</a> <br>
+<a href="/">Lorena Pereira Bernardo RA: 23025048</a><br>
+<a href="/">Matheus Sampaio Duarte RA: 23024588</a><br>
+<a href="/">Paulo Carvalho S. J. RA: 23024564</a><br>
+<a href="https://www.linkedin.com/in/renato-riichi-kato-09b86482/"> Renato Riichi Kato </a> <br> 
 
-## Professores Orientadores: <a href="https://www.linkedin.com/in/adriano-valente-534576135/">Adriano Felix Valente</a> e <a href="https://github.com/VictorRosetti">Victor Rosetti</a>
+
+
+## Professores Orientadores: 
+<a href="https://www.linkedin.com/in/edsonbarbero/">Edson Ricardo Barbero</a> <br>
+<a href="https://www.linkedin.com/in/victorbarq/">Victor Bruno Alexander Rosetti de Quiroz</a> <br>
+<a href="https://www.linkedin.com/in/lucymari/">Lucy Mari Tabuti</a> <br>
+<a href="https://www.linkedin.com/in/aimarlopes/">Aimar Martins Lopes</a> <br>
+<a href="https://www.linkedin.com/in/lucymari/">Eduardo Savino Gomes</a> <br>
 
 ## 💬 Descrição do Projeto
 
