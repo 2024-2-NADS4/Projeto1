@@ -38,7 +38,7 @@ Projeto Interdisciplinar: Startup Digital <a href="/">
 <br>
 Através desse projeto, são enviados e-mails com links de phishing simulados para os funcionários. Quando um colaborador clica no link malicioso, sua interação é registrada em um banco de dados MySQL. Após essa ação, o colaborador recebe automaticamente um convite por e-mail para participar de um curso de segurança digital, com foco em como reconhecer e prevenir ataques cibernéticos reais, promovendo, assim, o aprimoramento contínuo da cultura de segurança na empresa.</p>
 <br>
-<b>Objetivo: </b>Nosso principal objetivo é identificar e mitigar vulnerabilidades comportamentais relacionadas à segurança digital dentro da organização, por meio de simulações controladas de ataques de phishing. Além disso, buscamos:<br>
+<b>Objetivos: </b>Nosso principal objetivo é identificar e mitigar vulnerabilidades comportamentais relacionadas à segurança digital dentro da organização, por meio de simulações controladas de ataques de phishing. Além disso, buscamos:<br>
   <ul>
   <li>Educar os colaboradores sobre boas práticas de cibersegurança, capacitando-os a reconhecer e evitar ataques de phishing reais no futuro.</li><br>
   <li>Fomentar a cultura de segurança digital na empresa, incentivando a adoção de comportamentos mais seguros por todos os colaboradores.</li><br>
@@ -50,41 +50,27 @@ O projeto visa contribuir para a criação de um ambiente corporativo mais segur
 
 ## 🛠 Instalação
 
-<b>Front-end</b>
-
-- Android Studio: Ferramenta para codificação e desenvolvimento de aplicativos para a o sistema operacional Android.
-- Figma: Ferramenta para podelagem e prototipagem de designs em geral.
-
-<b>Back-end</b>
-
-- Android Studio: Ferramenta para codificação e desenvolvimento de aplicativos para a o sistema operacional Android.
-- Codesandbox: Ferramenta de codificação online.
-
-## 💻 Configuração para Desenvolvimento
-
-<b>1- Instalar as dependências do projeto:<br></b>
-Para instalar as dependências necessárias, execute os seguintes comandos no terminal:
-
+Para abrir o servidos deste projeto você necessita fazer a instalção das seguintes ferramentas:
+- <a href="https://www.oracle.com/java/technologies/javase/jdk17-archive-downloads.html">NodeJS v16.13.0</a><br>
+--> Pode ser necessário realizar a instalação das seguintes dependências:
 ```
 npm install express
 npm install body-parser
 npm install nodemailer
 npm install sqlite3
 npm install crypto
-npm install dotenv
+npm install dotenv
 ```
+
+## 💻 Configuração para Desenvolvimento
+
 <br>
-<b>2 - Banco de dados MySQL</b>
+<b>Banco de dados MySQL</b>
 Este projeto utiliza um banco de dados MySQL. Para rodar localmente, você pode seguir uma das opções abaixo:<br>
   <ul>
     <li>Instalar o MySQL diretamente no seu sistema.</li><br>
   </ul>
-<br>
 
-<b>3 - Ferramentas necessárias</b>
-  <ul>
-    <li>Node.js versão v16.13.0 ou superior.</li><br>
-  </ul>
   
 ## 🗃 -  Histórico de lançamentos
 
@@ -141,8 +127,6 @@ Este projeto utiliza um banco de dados MySQL. Para rodar localmente, você pode 
 
 Aqui estão as referências usadas no projeto.
 
-1. <https://developer.android.com/develop?hl=pt-brs>
-2. <https://dev.java/learn/getting-started/>
-3. <https://www.sqlite.org/docs.html>
-4. <https://docs.oracle.com/javase/8/docs/technotes/tools/windows/javadoc.html>
-5. <https://jsdoc.app/about-getting-started>
+1. <https://www.kaggle.com/>
+2. <https://colab.google/>
+
