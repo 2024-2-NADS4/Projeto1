@@ -11,11 +11,11 @@
 ## Integrantes: 
 <a href="https://www.linkedin.com/in/ana-flavia-lor%C3%AAdo-9629b5210/"> Ana Flavia Ribeiro Loredo dos Santos </a> <br>
 <a href="https://www.linkedin.com/in/fernanda-mayumi-kuba-kato/"> Fernanda Mayumi Kuba Kato </a> <br>
-<a href="/">Guilherme de Amorim Medeiros RA: 23024555</a><br>
+<a href="/">Guilherme de Amorim Medeiros</a><br>
 <a href="https://www.linkedin.com/in/kevinmakotos/"> Kevin Makoto Shiroma</a> <br>
-<a href="/">Lorena Pereira Bernardo RA: 23025048</a><br>
-<a href="/">Matheus Sampaio Duarte RA: 23024588</a><br>
-<a href="/">Paulo Carvalho S. J. RA: 23024564</a><br>
+<a href="/">Lorena Pereira Bernardo</a><br>
+<a href="/">Matheus Sampaio Duarte</a><br>
+<a href="/">Paulo Carvalho S. J.</a><br>
 <a href="https://www.linkedin.com/in/renato-riichi-kato-09b86482/"> Renato Riichi Kato </a> <br> 
 
 
