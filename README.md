@@ -30,28 +30,13 @@
 ## 💬 Descrição do Projeto
 
 <p align="center">
-<img src="https://github.com/2024-2-NADS4/Projeto1/blob/main/imagem/logo-dataSafeIA.png" alt="WWC" border="0"  width="350px" height="275px"></p>
+<img src="https://github.com/2024-2-NADS4/Projeto1/blob/main/imagem/logo-dataSafeIA.png" alt="WWC" border="0"  width="350px" height="275px"><br>
+Projeto Interdisciplinar: Startup Digital <a href="/">
+</p>
+
+O <b>DataSafe IA</b> é um projeto interdisciplinar voltado para a conscientização e educação em cibersegurança dentro das empresas, utilizando testes simulados de phishing. O objetivo principal é alertar e informar os colaboradores sobre os riscos cibernéticos, ao mesmo tempo em que se identificam vulnerabilidades na segurança digital da organização.
 <br>
-<b>Eco-ia Game: Aventura da Reciclagem para Crianças!</b> <br>
-Embarque em uma jornada emocionante pelo mundo da reciclagem com o Eco-ia Game, um jogo educativo e divertido projetado especialmente para crianças!
-<br>
-<b>Desvende o Mundo da Reciclagem:</b> <br>
-No Eco-ia Game, as crianças exploram um mundo colorido e interativo, onde aprendem sobre a importância da reciclagem e como ela ajuda a proteger o meio ambiente. Com desafios empolgantes, a diversão e o aprendizado andam de mãos dadas.
-<br>
-<b>Mini Games Divertidos e Educativos:</b> <br>
-• Desafio das Lixeiras: Teste seus conhecimentos sobre reciclagem separando o lixo corretamente nas lixeiras coloridas. <br>
-• Trilha Ecológica: Escolha o lixo e descubra qual é a lixeira correta, para ganhar pontos e aprender mais sobre os tipos de reciclagem que existem! <br>
-• Desafio do Vídeo: Assista os vídeos e responda as perguntas para ajudar a limpar o meio ambiente e proteger os animais.
-<b>Recursos Interativos:</b> <br>
-• Gráficos Coloridos e Animados: Explore um mundo vibrante e cheio de vida, com cenários e personagens encantadores. <br>
-• Trilha Sonora Divertida: Curta músicas animadas e efeitos sonoros divertidos que tornam a experiência ainda mais empolgante. <br>
-• Sistema de Recompensas: Ganhe recompensas e alcance o top 1 no ranking global.
-<br>
-<b>Aprendizado e Diversão em um Só Lugar:</b> <br>
-O Eco-ia Game oferece uma experiência completa de aprendizado e diversão, incentivando as crianças a se tornarem verdadeiros defensores do meio ambiente. Com uma abordagem lúdica e interativa, o jogo desperta a consciência ambiental e promove a adoção de hábitos sustentáveis desde cedo.
-<br>
-<b>Junte-se à Aventura da Reciclagem!</b> <br>
-Baixe agora o Eco-ia Game e embarque nessa jornada emocionante rumo a um futuro mais verde e sustentável!
+Através desse projeto, são enviados e-mails com links de phishing simulados para os funcionários. Quando um colaborador clica no link malicioso, sua interação é registrada em um banco de dados MySQL. Após essa ação, o colaborador recebe automaticamente um convite por e-mail para participar de um curso de segurança digital, com foco em como reconhecer e prevenir ataques cibernéticos reais, promovendo, assim, o aprimoramento contínuo da cultura de segurança na empresa.
 
 ## 🛠 Instalação
 
