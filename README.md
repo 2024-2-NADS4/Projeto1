@@ -30,53 +30,29 @@
 ## 💬 Descrição do Projeto
 
 <p align="center">
-<img src="https://github.com/2024-1-NADS3/Projeto12/blob/main/img/icon.jpg?raw=true" alt="WWC" border="0"  width="350px" height="275px"></p>
+<img src="https://github.com/2024-2-NADS4/Projeto1/blob/main/imagem/logo-dataSafeIA.png" alt="WWC" border="0"  width="350px" height="275px"><br>
+Projeto Interdisciplinar: Startup Digital <a href="/">
+</p>
+
+<p>O <b>DataSafe IA</b> é um projeto interdisciplinar voltado para a conscientização e educação em cibersegurança dentro das empresas, utilizando testes simulados de phishing. O objetivo principal é alertar e informar os colaboradores sobre os riscos cibernéticos, ao mesmo tempo em que se identificam vulnerabilidades na segurança digital da organização.<br>
 <br>
-<b>Eco-ia Game: Aventura da Reciclagem para Crianças!</b> <br>
-Embarque em uma jornada emocionante pelo mundo da reciclagem com o Eco-ia Game, um jogo educativo e divertido projetado especialmente para crianças!
+Através desse projeto, são enviados e-mails com links de phishing simulados para os funcionários. Quando um colaborador clica no link malicioso, sua interação é registrada em um banco de dados MySQL. Após essa ação, o colaborador recebe automaticamente um convite por e-mail para participar de um curso de segurança digital, com foco em como reconhecer e prevenir ataques cibernéticos reais, promovendo, assim, o aprimoramento contínuo da cultura de segurança na empresa.</p>
 <br>
-<b>Desvende o Mundo da Reciclagem:</b> <br>
-No Eco-ia Game, as crianças exploram um mundo colorido e interativo, onde aprendem sobre a importância da reciclagem e como ela ajuda a proteger o meio ambiente. Com desafios empolgantes, a diversão e o aprendizado andam de mãos dadas.
-<br>
-<b>Mini Games Divertidos e Educativos:</b> <br>
-• Desafio das Lixeiras: Teste seus conhecimentos sobre reciclagem separando o lixo corretamente nas lixeiras coloridas. <br>
-• Trilha Ecológica: Escolha o lixo e descubra qual é a lixeira correta, para ganhar pontos e aprender mais sobre os tipos de reciclagem que existem! <br>
-• Desafio do Vídeo: Assista os vídeos e responda as perguntas para ajudar a limpar o meio ambiente e proteger os animais.
-<b>Recursos Interativos:</b> <br>
-• Gráficos Coloridos e Animados: Explore um mundo vibrante e cheio de vida, com cenários e personagens encantadores. <br>
-• Trilha Sonora Divertida: Curta músicas animadas e efeitos sonoros divertidos que tornam a experiência ainda mais empolgante. <br>
-• Sistema de Recompensas: Ganhe recompensas e alcance o top 1 no ranking global.
-<br>
-<b>Aprendizado e Diversão em um Só Lugar:</b> <br>
-O Eco-ia Game oferece uma experiência completa de aprendizado e diversão, incentivando as crianças a se tornarem verdadeiros defensores do meio ambiente. Com uma abordagem lúdica e interativa, o jogo desperta a consciência ambiental e promove a adoção de hábitos sustentáveis desde cedo.
-<br>
-<b>Junte-se à Aventura da Reciclagem!</b> <br>
-Baixe agora o Eco-ia Game e embarque nessa jornada emocionante rumo a um futuro mais verde e sustentável!
+<b>Objetivos: </b>Nosso principal objetivo é identificar e mitigar vulnerabilidades comportamentais relacionadas à segurança digital dentro da organização, por meio de simulações controladas de ataques de phishing. Além disso, buscamos:<br>
+  <ul>
+  <li>Educar os colaboradores sobre boas práticas de cibersegurança, capacitando-os a reconhecer e evitar ataques de phishing reais no futuro.</li><br>
+  <li>Fomentar a cultura de segurança digital na empresa, incentivando a adoção de comportamentos mais seguros por todos os colaboradores.</li><br>
+  <li>Coletar dados sobre a conscientização e vulnerabilidades da organização em relação a ataques de phishing, possibilitando a implementação de ações corretivas e treinamentos direcionados.</li><br>
+  <li>Fortalecer a resiliência da empresa contra ameaças cibernéticas, aprimorando as habilidades dos colaboradores na proteção de dados e no uso seguro das tecnologias.</li>
+  </ul>
+O projeto visa contribuir para a criação de um ambiente corporativo mais seguro e preparado para enfrentar desafios cibernéticos, minimizando riscos e reforçando as defesas digitais da organização.
+
 
 ## 🛠 Instalação
 
-<b>Front-end</b>
-
-- Android Studio: Ferramenta para codificação e desenvolvimento de aplicativos para a o sistema operacional Android.
-- Figma: Ferramenta para podelagem e prototipagem de designs em geral.
-
-<b>Back-end</b>
-
-- Android Studio: Ferramenta para codificação e desenvolvimento de aplicativos para a o sistema operacional Android.
-- Codesandbox: Ferramenta de codificação online.
-
-## 💻 Configuração para Desenvolvimento
-
-1- Para abrir este projeto você necessita fazer a instalção das seguintes ferramentas:
-
-- <a href="https://developer.android.com/studio?gad_source=1&gclid=Cj0KCQjw2uiwBhCXARIsACMvIU1GVQCo_wPJf2YdcSfEj22uxcBZSt8uQJVw6qJXkUsINjMRQcwj_ScaAsvwEALw_wcB&gclsrc=aw.ds&hl=pt-br">Android Studio Iguana | 2023.2.1</a><br>
-- <a href="https://www.oracle.com/java/technologies/javase/jdk17-archive-downloads.html">Java version "17.0.1" 2021-10-19 LTS</a><br>
-
-2- Para abrir o servidos deste projeto você necessita fazer a instalção das seguintes ferramentas:
-
+Para abrir o servidos deste projeto você necessita fazer a instalção das seguintes ferramentas:
 - <a href="https://www.oracle.com/java/technologies/javase/jdk17-archive-downloads.html">NodeJS v16.13.0</a><br>
-  --> Pode ser necessário realizar a instalação das seguintes dependências:
-
+--> Pode ser necessário realizar a instalação das seguintes dependências:
 ```
 npm install express
 npm install body-parser
@@ -86,50 +62,65 @@ npm install crypto
 npm install dotenv
 ```
 
-<b>Outras configurações</b>
+## 💻 Configuração para Desenvolvimento
 
-- Recomendamos o uso: Android 5.1 lollipop
-- Recomendamos o uso: Emulador: Pixel 5 API 22
+<br>
+<b>Banco de dados MySQL</b><br>
+Este projeto utiliza um banco de dados MySQL. Para rodar localmente, você pode seguir uma das opções abaixo:<br>
+  <ul>
+    <li>Instalar o MySQL diretamente no seu sistema.</li><br>
+  </ul>
 
-## 🗃 Histórico de lançamentos
+  
+## 🗃 -  Histórico de lançamentos
 
-- 0.0.1 - 01/02/2024
-  - ATUALIZAÇÃO: Início do protótipo no figma.
-- 0.1.0 - 15/02/2024
-  - ATUALIZAÇÃO: Criação de páginas no android studio.
-- 0.1.1 - 30/02/2024
-  - ATUALIZAÇÃO: Páginas (front/design) no android studio finalizadas e revisadas.
-- 0.2.0 - 15/03/2024
-  - Front-end: programação das páginas no android studio (Java);
-  - Back-end: programação do servidor NODE JS (CodeSandBox);
-- 0.2.1 - 30/03/2024
-  - Teste: Back-end.
-- 0.3.0 - 15/04/2024
-  - Revisão do projeto.
-  - Trabalho na reta final.
-- 0.3.0 - 30/04/2024
-  - Configurações finais.
-  - Documentação acadêmica.
-- 0.3.1 - 15/05/2024
-  - Revisão e finalização do aplicativo.
-- 0.3.1 - 22/05/2024
-  - Trabalho finalizado.
-  - Publicação do App na Google Play Store.
+- 1 - 05/08/2024
+  - Início do projeto.
+- 2 - 23/08/2024
+  - Bate papo sobre as ideias e tema da Startup
+- 3 - 09/09/2024
+  - ATUALIZAÇÃO: Reunião de equipe DataSafe IA
+- 4 - 10/09/2024
+  - Gestão de Projeto: Definição do escopo e planejamento inicial. Identificação dos stakeholders, elaboração do cronograma e recursos necessários.
+- 5 - 27/09/2024
+  - Apresentação da Startup
+- 6 - 21/10/2024
+  - Ciência de dados: Entrega da base de dados
+- 7 - 09/10/2024
+  - ATUALIZAÇÃO: Reunião de equipe DataSafe IA
+- 8 - 15/10/2024 - 10/11/2024
+  - Desenvolvimento do protótipo/produto
+- 9 - 25/10/2024 - 08/11/2024
+  - Desenvolvimento e bate papo sobre o modelo de negócio
+- 10 - 05/11/2024
+  - Entrega do relatório de IA e Machine Learning
+- 11 - 15/11/2024
+  - Revisão e finalização do sistema.
+- 12 - 22/11/2024
+  - Pitch - apresentação final
 
 ## 🛠 Estrutura de pastas
 
 -Raiz<br>
 |<br>
 |-->documentos<br>
-&emsp;|-->atividades<br>
-&emsp;|-->backend/out<br>
-&emsp;|-->frontend/javadocs<br>
-&emsp;|-->Projetos_de_Extensão-grupo12.pdf<br>
-&emsp;|-->Projetos_de_Extensão-grupo12.docx<br>
-|-->imagens<br>
+&emsp;|-->Ciência de Dados<br>
+  &emsp;|-->Analise_de_Violacao_de_Dados.pdf<br>
+  &emsp;|-->basededados_com_grafico_impactoSocial.xlsx<br>
+  &emsp;|-->dataset_cybersecurity.ipynb<br>
+  &emsp;|-->df_1.csv<br>
+&emsp;|-->Inteligência Artificial<br>
+  &emsp;|-->PI_AI.ipynb<br>
+&emsp;|-->Segurança da Informação e Cibernética<br>
+  &emsp;|-->Teste de mesa_Criptografia.pdf<br>
+|-->imagem<br>
+  &emsp;|-->logo-dataSafeIA.png<br>
 |-->src<br>
-&emsp;|-->Backend<br>
 &emsp;|-->Frontend<br>
+&emsp;|-->instruções.txt<br>
+&emsp;|-->resumos.txt<br>
+&emsp;|-->cript_dbPiBackend.txt<br>
+|.gitignore<br>
 |readme.md<br>
 
 ## 📋 Licença/License
@@ -138,8 +129,6 @@ npm install dotenv
 
 Aqui estão as referências usadas no projeto.
 
-1. <https://developer.android.com/develop?hl=pt-brs>
-2. <https://dev.java/learn/getting-started/>
-3. <https://www.sqlite.org/docs.html>
-4. <https://docs.oracle.com/javase/8/docs/technotes/tools/windows/javadoc.html>
-5. <https://jsdoc.app/about-getting-started>
+1. <https://www.kaggle.com/>
+2. <https://colab.google/>
+
