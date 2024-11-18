@@ -62,15 +62,8 @@ O projeto visa contribuir para a criação de um ambiente corporativo mais segur
 
 ## 💻 Configuração para Desenvolvimento
 
-1- Para abrir este projeto você necessita fazer a instalção das seguintes ferramentas:
-
-- <a href="https://developer.android.com/studio?gad_source=1&gclid=Cj0KCQjw2uiwBhCXARIsACMvIU1GVQCo_wPJf2YdcSfEj22uxcBZSt8uQJVw6qJXkUsINjMRQcwj_ScaAsvwEALw_wcB&gclsrc=aw.ds&hl=pt-br">Android Studio Iguana | 2023.2.1</a><br>
-- <a href="https://www.oracle.com/java/technologies/javase/jdk17-archive-downloads.html">Java version "17.0.1" 2021-10-19 LTS</a><br>
-
-2- Para abrir o servidos deste projeto você necessita fazer a instalção das seguintes ferramentas:
-
-- <a href="https://www.oracle.com/java/technologies/javase/jdk17-archive-downloads.html">NodeJS v16.13.0</a><br>
-  --> Pode ser necessário realizar a instalação das seguintes dependências:
+<b>1- Instalar as dependências do projeto:<br></b>
+Para instalar as dependências necessárias, execute os seguintes comandos no terminal:
 
 ```
 npm install express
@@ -78,15 +71,22 @@ npm install body-parser
 npm install nodemailer
 npm install sqlite3
 npm install crypto
-npm install dotenv
+npm install dotenv
 ```
+<br>
+<b>2 - Banco de dados MySQL</b>
+Este projeto utiliza um banco de dados MySQL. Para rodar localmente, você pode seguir uma das opções abaixo:<br>
+  <ul>
+    <li>Instalar o MySQL diretamente no seu sistema.</li><br>
+  </ul>
+<br>
 
-<b>Outras configurações</b>
-
-- Recomendamos o uso: Android 5.1 lollipop
-- Recomendamos o uso: Emulador: Pixel 5 API 22
-
-## 🗃 Histórico de lançamentos
+<b>3 - Ferramentas necessárias</b>
+  <ul>
+    <li>Node.js versão v16.13.0 ou superior.</li><br>
+  </ul>
+  
+## 🗃 -  Histórico de lançamentos
 
 - 0.0.1 - 01/02/2024
   - ATUALIZAÇÃO: Início do protótipo no figma.
@@ -116,15 +116,23 @@ npm install dotenv
 -Raiz<br>
 |<br>
 |-->documentos<br>
-&emsp;|-->atividades<br>
-&emsp;|-->backend/out<br>
-&emsp;|-->frontend/javadocs<br>
-&emsp;|-->Projetos_de_Extensão-grupo12.pdf<br>
-&emsp;|-->Projetos_de_Extensão-grupo12.docx<br>
-|-->imagens<br>
+&emsp;|-->Ciência de Dados<br>
+  &emsp;|-->Analise_de_Violacao_de_Dados.pdf<br>
+  &emsp;|-->basededados_com_grafico_impactoSocial.xlsx<br>
+  &emsp;|-->dataset_cybersecurity.ipynb<br>
+  &emsp;|-->df_1.csv<br>
+&emsp;|-->Inteligência Artificial<br>
+  &emsp;|-->PI_AI.ipynb<br>
+&emsp;|-->Segurança da Informação e Cibernética<br>
+  &emsp;|-->Teste de mesa_Criptografia.pdf<br>
+|-->imagem<br>
+  &emsp;|-->logo-dataSafeIA.png<br>
 |-->src<br>
-&emsp;|-->Backend<br>
 &emsp;|-->Frontend<br>
+&emsp;|-->instruções.txt<br>
+&emsp;|-->resumos.txt<br>
+&emsp;|-->cript_dbPiBackend.txt<br>
+|.gitignore<br>
 |readme.md<br>
 
 ## 📋 Licença/License
