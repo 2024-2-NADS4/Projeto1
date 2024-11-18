@@ -65,7 +65,7 @@ npm install dotenv
 ## 💻 Configuração para Desenvolvimento
 
 <br>
-<b>Banco de dados MySQL</b>
+<b>Banco de dados MySQL</b><br>
 Este projeto utiliza um banco de dados MySQL. Para rodar localmente, você pode seguir uma das opções abaixo:<br>
   <ul>
     <li>Instalar o MySQL diretamente no seu sistema.</li><br>
@@ -74,28 +74,28 @@ Este projeto utiliza um banco de dados MySQL. Para rodar localmente, você pode 
   
 ## 🗃 -  Histórico de lançamentos
 
-- 0.0.1 - 01/02/2024
-  - ATUALIZAÇÃO: Início do protótipo no figma.
-- 0.1.0 - 15/02/2024
-  - ATUALIZAÇÃO: Criação de páginas no android studio.
-- 0.1.1 - 30/02/2024
-  - ATUALIZAÇÃO: Páginas (front/design) no android studio finalizadas e revisadas.
-- 0.2.0 - 15/03/2024
-  - Front-end: programação das páginas no android studio (Java);
-  - Back-end: programação do servidor NODE JS (CodeSandBox);
-- 0.2.1 - 30/03/2024
-  - Teste: Back-end.
-- 0.3.0 - 15/04/2024
-  - Revisão do projeto.
-  - Trabalho na reta final.
-- 0.3.0 - 30/04/2024
-  - Configurações finais.
-  - Documentação acadêmica.
-- 0.3.1 - 15/05/2024
-  - Revisão e finalização do aplicativo.
-- 0.3.1 - 22/05/2024
-  - Trabalho finalizado.
-  - Publicação do App na Google Play Store.
+- 1 - 05/08/2024
+  - Início do projeto.
+- 2 - 23/08/2024
+  - Bate papo sobre as ideias e tema da Startup
+- 3 - 09/09/2024
+  - ATUALIZAÇÃO: Reunião de equipe DataSafe IA
+- 4 - 27/09/2024
+  - Apresentação da Startup
+- 5 - 21/10/2024
+  - Entrega da base de dados
+- 6 - 09/10/2024
+  - ATUALIZAÇÃO: Reunião de equipe DataSafe IA
+- 7 - 15/10/2024 - 10/11/2024
+  - Desenvolvimento do protótipo/produto
+- 8 - 25/10/2024 - 08/11/2024
+  - Desenvolvimento e bate papo sobre o modelo de negócio
+- 9 - 05/11/2024
+  - Entrega do relatório de IA e Machine Learning
+- 10 - 15/05/2024
+  - Revisão e finalização do sistema.
+- 11 - 22/11/2024
+  - Pitch - apresentação final
 
 ## 🛠 Estrutura de pastas
 
