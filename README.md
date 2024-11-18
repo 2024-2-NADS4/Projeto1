@@ -37,16 +37,14 @@ Projeto Interdisciplinar: Startup Digital <a href="/">
 <p>O <b>DataSafe IA</b> é um projeto interdisciplinar voltado para a conscientização e educação em cibersegurança dentro das empresas, utilizando testes simulados de phishing. O objetivo principal é alertar e informar os colaboradores sobre os riscos cibernéticos, ao mesmo tempo em que se identificam vulnerabilidades na segurança digital da organização.<br>
 <br>
 Através desse projeto, são enviados e-mails com links de phishing simulados para os funcionários. Quando um colaborador clica no link malicioso, sua interação é registrada em um banco de dados MySQL. Após essa ação, o colaborador recebe automaticamente um convite por e-mail para participar de um curso de segurança digital, com foco em como reconhecer e prevenir ataques cibernéticos reais, promovendo, assim, o aprimoramento contínuo da cultura de segurança na empresa.</p>
-
-<b>Objetivo:</b>Nosso principal objetivo é identificar e mitigar vulnerabilidades comportamentais relacionadas à segurança digital dentro da organização, por meio de simulações controladas de ataques de phishing. Além disso, buscamos:<br>
 <br>
+<b>Objetivo: </b>Nosso principal objetivo é identificar e mitigar vulnerabilidades comportamentais relacionadas à segurança digital dentro da organização, por meio de simulações controladas de ataques de phishing. Além disso, buscamos:<br>
   <ul>
   <li>Educar os colaboradores sobre boas práticas de cibersegurança, capacitando-os a reconhecer e evitar ataques de phishing reais no futuro.</li><br>
   <li>Fomentar a cultura de segurança digital na empresa, incentivando a adoção de comportamentos mais seguros por todos os colaboradores.</li><br>
   <li>Coletar dados sobre a conscientização e vulnerabilidades da organização em relação a ataques de phishing, possibilitando a implementação de ações corretivas e treinamentos direcionados.</li><br>
   <li>Fortalecer a resiliência da empresa contra ameaças cibernéticas, aprimorando as habilidades dos colaboradores na proteção de dados e no uso seguro das tecnologias.</li>
   </ul>
-<br>
 O projeto visa contribuir para a criação de um ambiente corporativo mais seguro e preparado para enfrentar desafios cibernéticos, minimizando riscos e reforçando as defesas digitais da organização.
 
 
