@@ -80,21 +80,23 @@ Este projeto utiliza um banco de dados MySQL. Para rodar localmente, você pode 
   - Bate papo sobre as ideias e tema da Startup
 - 3 - 09/09/2024
   - ATUALIZAÇÃO: Reunião de equipe DataSafe IA
-- 4 - 27/09/2024
+- 4 - 10/09/2024
+  - Gestão de Projeto: Definição do escopo e planejamento inicial. Identificação dos stakeholders, elaboração do cronograma e recursos necessários.
+- 5 - 27/09/2024
   - Apresentação da Startup
-- 5 - 21/10/2024
-  - Entrega da base de dados
-- 6 - 09/10/2024
+- 6 - 21/10/2024
+  - Ciência de dados: Entrega da base de dados
+- 7 - 09/10/2024
   - ATUALIZAÇÃO: Reunião de equipe DataSafe IA
-- 7 - 15/10/2024 - 10/11/2024
+- 8 - 15/10/2024 - 10/11/2024
   - Desenvolvimento do protótipo/produto
-- 8 - 25/10/2024 - 08/11/2024
+- 9 - 25/10/2024 - 08/11/2024
   - Desenvolvimento e bate papo sobre o modelo de negócio
-- 9 - 05/11/2024
+- 10 - 05/11/2024
   - Entrega do relatório de IA e Machine Learning
-- 10 - 15/05/2024
+- 11 - 15/11/2024
   - Revisão e finalização do sistema.
-- 11 - 22/11/2024
+- 12 - 22/11/2024
   - Pitch - apresentação final
 
 ## 🛠 Estrutura de pastas
