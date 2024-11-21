@@ -48,6 +48,7 @@ Através desse projeto, são enviados e-mails com links de phishing simulados pa
 O projeto visa contribuir para a criação de um ambiente corporativo mais seguro e preparado para enfrentar desafios cibernéticos, minimizando riscos e reforçando as defesas digitais da organização.
 
 <br>
+<br>
 
 ## 🌐 Desenvolvimento Web - plataforma do curso de treinamento
 Para o desenvolvimento do site foi utilizado as seguintes tecnologias:<br><br>
