@@ -9,7 +9,7 @@
 ## Grupo 01
 
 ## Integrantes: 
-<a href="https://www.linkedin.com/in/ana-flavia-lor%C3%AAdo-9629b5210/"> Ana Flavia Ribeiro Loredo dos Santos </a> <br>
+<a href="https://www.linkedin.com/in/ana-flavia-lor%C3%AAdo-9629b5210/"> Ana Flavia Ribeiro Lorêdo dos Santos </a> <br>
 <a href="https://www.linkedin.com/in/fernanda-mayumi-kuba-kato/"> Fernanda Mayumi Kuba Kato </a> <br>
 <a href="/">Guilherme de Amorim Medeiros</a><br>
 <a href="https://www.linkedin.com/in/kevinmakotos/"> Kevin Makoto Shiroma</a> <br>
