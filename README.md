@@ -47,6 +47,13 @@ Através desse projeto, são enviados e-mails com links de phishing simulados pa
   </ul>
 O projeto visa contribuir para a criação de um ambiente corporativo mais seguro e preparado para enfrentar desafios cibernéticos, minimizando riscos e reforçando as defesas digitais da organização.
 
+# 📱 Desenvolvimento Web - plataforma do curso de treinamento
+Para o desenvolvimento do site foi utilizado as seguintes tecnologias:<br><br>
+<img src="https://user-images.githubusercontent.com/25181517/192158954-f88b5814-d510-4564-b285-dff7d6400dad.png" alt="html" border="0" width="50" align="center">
+<img src="https://user-images.githubusercontent.com/25181517/183898674-75a4a1b1-f960-4ea9-abcb-637170a00a75.png" alt="css" border="0" width="50" align="center">
+<img src="https://user-images.githubusercontent.com/25181517/183897015-94a058a6-b86e-4e42-a37f-bf92061753e5.png" alt="react" border="0" width="50" align="center">
+<img src="https://user-images.githubusercontent.com/25181517/183568594-85e280a7-0d7e-4d1a-9028-c8c2209e073c.png" alt="nodeJS" border="0" width="50" align="center">
+<img src="https://user-images.githubusercontent.com/25181517/183896128-ec99105a-ec1a-4d85-b08b-1aa1620b2046.png" alt="mySQL" border="0" width="50" align="center">
 
 ## 🛠 Instalação
 
@@ -103,23 +110,27 @@ Este projeto utiliza um banco de dados MySQL. Para rodar localmente, você pode 
 
 -Raiz<br>
 |<br>
-|-->documentos<br>
-&emsp;|-->Ciência de Dados<br>
-  &emsp;|-->Analise_de_Violacao_de_Dados.pdf<br>
-  &emsp;|-->basededados_com_grafico_impactoSocial.xlsx<br>
-  &emsp;|-->dataset_cybersecurity.ipynb<br>
-  &emsp;|-->df_1.csv<br>
-&emsp;|-->Inteligência Artificial<br>
-  &emsp;|-->PI_AI.ipynb<br>
+📁|-->documentos<br>
+&emsp;📁|-->Ciência de Dados<br>
+  &emsp;&emsp;|-->Analise_de_Violacao_de_Dados.pdf<br>
+  &emsp;&emsp;|-->basededados_com_grafico_impactoSocial.xlsx<br>
+  &emsp;&emsp;|-->dataset_cybersecurity.ipynb<br>
+  &emsp;&emsp;|-->df_1.csv<br>
+&emsp;📁|-->Gestão de Projetos<br>
+  &emsp;&emsp;|-->DataSafeAI_ProjectCharter-Escopo.pdf<br>
+  &emsp;&emsp;|-->Identificacao_de_Riscos_DataSafeAI.xlsx<br>
+  &emsp;&emsp;|-->WBS-DataSafeAI.xlsx<br>
+&emsp;📁|-->Inteligência Artificial<br>
+  &emsp;&emsp;|-->PI_AI.ipynb<br>
 &emsp;|-->Segurança da Informação e Cibernética<br>
-  &emsp;|-->Teste de mesa_Criptografia.pdf<br>
-|-->imagem<br>
+  &emsp;&emsp;|-->Teste de mesa_Criptografia.pdf<br>
+📁|-->imagem<br>
   &emsp;|-->logo-dataSafeIA.png<br>
-|-->src<br>
-&emsp;|-->Frontend<br>
-&emsp;|-->instruções.txt<br>
-&emsp;|-->resumos.txt<br>
-&emsp;|-->cript_dbPiBackend.txt<br>
+📁|-->src<br>
+  &emsp;&emsp;📁|-->Frontend<br>
+  &emsp;&emsp;|-->instruções.txt<br>
+  &emsp;&emsp;|-->resumos.txt<br>
+  &emsp;&emsp;|-->cript_dbPiBackend.txt<br>
 |.gitignore<br>
 |readme.md<br>
 
