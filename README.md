@@ -47,6 +47,7 @@ Através desse projeto, são enviados e-mails com links de phishing simulados pa
   </ul>
 O projeto visa contribuir para a criação de um ambiente corporativo mais seguro e preparado para enfrentar desafios cibernéticos, minimizando riscos e reforçando as defesas digitais da organização.
 
+<br>
 ## 🌐 Desenvolvimento Web - plataforma do curso de treinamento
 Para o desenvolvimento do site foi utilizado as seguintes tecnologias:<br><br>
 <img src="https://user-images.githubusercontent.com/25181517/192158954-f88b5814-d510-4564-b285-dff7d6400dad.png" alt="html" border="0" width="50" align="center">
@@ -54,6 +55,7 @@ Para o desenvolvimento do site foi utilizado as seguintes tecnologias:<br><br>
 <img src="https://user-images.githubusercontent.com/25181517/183897015-94a058a6-b86e-4e42-a37f-bf92061753e5.png" alt="react" border="0" width="50" align="center">
 <img src="https://user-images.githubusercontent.com/25181517/183568594-85e280a7-0d7e-4d1a-9028-c8c2209e073c.png" alt="nodeJS" border="0" width="50" align="center">
 <img src="https://user-images.githubusercontent.com/25181517/183896128-ec99105a-ec1a-4d85-b08b-1aa1620b2046.png" alt="mySQL" border="0" width="50" align="center">
+<br>
 
 ## 🛠 Instalação
 
